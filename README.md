@@ -18,5 +18,6 @@
 #### 🎨 Design 🎨
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayeongKim&&show_icons=true&theme=dracula)
+[![skdud4659's GitHub stats](https://github-readme-stats.vercel.app/api?username=skdud4659&&show_icons=true&theme=dracula)](https://github.com/skdud4659/github-readme-stats)
+
 
