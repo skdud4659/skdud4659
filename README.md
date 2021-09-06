@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Nayoeng%20Kim&animation=fadeIn&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Nayeong%20Kim&animation=fadeIn&fontSize=60)
 
 ## 🐈 Hi, there! I’m @Nayeong-Kim
 - 🌱 I'm a junior front-end developer.
