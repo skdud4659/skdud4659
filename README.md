@@ -2,7 +2,7 @@
 
 ## 🐈 Hi, there! I’m @Nayeong-Kim
 - 🌱 I'm a junior front-end developer.
-- 👩🏻‍💻 I’m currently learning JS, React, TS.
+- 👩🏻‍💻 I’m currently learning TS, React-Native.
 
 #### 🛠 Programming Languages 🛠
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
